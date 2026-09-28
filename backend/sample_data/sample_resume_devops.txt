@@ -1,0 +1,27 @@
+SAMIRA KHAN
+DevOps Engineer | Austin, TX | samira.khan.devops@example.com
+
+PROFESSIONAL SUMMARY
+DevOps and Cloud Engineer with 3+ years building resilient cloud foundations, Kubernetes clusters, and automated CI/CD pipelines.
+
+CORE COMPETENCIES
+- Cloud: AWS, Google Cloud Platform (GCP)
+- Containerization & Orchestration: Docker, Kubernetes, Helm
+- IaC & Automation: Terraform, Bash, Python, Linux
+- CI/CD & Version Control: CI/CD, Git, GitHub Actions, Jenkins
+- Monitoring: Prometheus, Grafana
+- Practices: Agile, System Design, High Availability
+
+EXPERIENCE
+Cloud Infrastructure Engineer | Nexus Cloud Systems | 2022 - Present
+- Provisioned multi-region AWS infrastructure using Terraform IaC modules.
+- Managed Kubernetes clusters running 200+ containerized microservices.
+- Constructed automated CI/CD delivery pipelines with GitHub Actions and Docker.
+- Automated system health monitoring with Prometheus and custom Grafana dashboards.
+
+Linux Systems Administrator | Enterprise Hosting | 2021 - 2022
+- Managed fleet of 150+ Linux servers, configuring security hardening and automated Bash cron scripts.
+- Implemented Git version control workflows for operational automation.
+
+EDUCATION
+B.S. in Information Technology | University of Texas at Austin | 2017 - 2021
